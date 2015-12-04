@@ -21,7 +21,7 @@
       var HOMEPAGE = 'http://clusteramaryllisblog.blogspot.com/2013/10/blogspot-table-of-contents-blogtoc.html';
 
       var alphabet = 'A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z'.split('|'),
-        days = 'Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday'.split('|'),
+        days = 'السبت|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday'.split('|'),
         months = 'January|February|March|April|May|June|July|August|September|October|November|December'.split('|');
 
       var authorThumb = 'https://lh4.googleusercontent.com/-QhzzNTYkzbE/AAAAAAAAAAI/AAAAAAAAAAA/voMJT6RfB_o/s1600/photo.jpg',
